@@ -1,4 +1,17 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://cdn.jsdelivr.net/gh/my-tv1/collect-tv-txt@main/assets/special/special.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/live.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/merged_output.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/merged_output.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/others_output.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output_simple.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output_simple.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_ws.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
